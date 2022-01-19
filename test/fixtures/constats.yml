@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date_of_creation: 2022-01-19
+  date_last_update: 2022-01-19
+  paragraph: MyText
+  customers: one
+
+two:
+  name: MyString
+  date_of_creation: 2022-01-19
+  date_last_update: 2022-01-19
+  paragraph: MyText
+  customers: two

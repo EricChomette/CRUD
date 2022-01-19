@@ -1,0 +1,2 @@
+class ConstatsController < ApplicationController
+end
